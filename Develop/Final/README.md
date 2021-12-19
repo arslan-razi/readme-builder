@@ -1,9 +1,9 @@
-# test
+# Weather Dashboard
 
-![gnu](https://img.shields.io/badge/license-GNU%20GPLv3-green)
+![mit](https://img.shields.io/badge/license-MIT%20License-red)
     
 ## Description
-test
+5-Day weather outlook for multiple cities
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -13,18 +13,18 @@ test
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-test
+The site is published at https://arslan-razi.github.io/Weather-Dashboard/
 ## Usage
-test
+Just type your city name and click the search icon
 ## License
 
-This application is covered by the GNU General Purpose License, the terms of which can be found [here](https://www.gnu.org/licenses/gpl-3.0.en.html).
+This application is covered by the MIT License, the terms of which can be found [here](https://opensource.org/licenses/MIT).
     
 ## Contributing
-test
+Repo available on GitHub and open for public contribution
 ## Tests
-test
+Compair results with other weather apps
 ## Questions
-[GitHub Profile](https://github.com/test/)  
+[GitHub Profile](https://github.com/arslan-razi/)  
 
-I can be reached at test@test.com.
+I can be reached at arslan.razi@outlook.com.
