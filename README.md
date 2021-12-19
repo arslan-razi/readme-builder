@@ -28,4 +28,4 @@ THEN I am taken to the corresponding section of the README
 Video Can be viewed at: https://drive.google.com/file/d/1PwZhXGgI_iq-PELNFiavf-0N0u0T9kPq/view?usp=sharing
 
  
-![Final Output](Develop\Images\final_readme.png)
+![Final Output](https://github.com/arslan-razi/readme-builder/blob/main/Develop/Images/final_readme.png?raw=true)
