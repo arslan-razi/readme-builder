@@ -28,4 +28,4 @@ THEN I am taken to the corresponding section of the README
 Video Can be viewed at: 
 
  
-![Final Output](./images/final_readme.png)
+![Final Output](.Develop\Images\final_readme.png)
